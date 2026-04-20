@@ -1,2 +1,3 @@
-# STAT405_finalProject
-STAT405 Final Project
+# STAT405 Final Project
+
+This project presents a Bayesian analysis of purchase probability in online shopping sessions using the Online Shoppers Purchasing Intention Dataset. The study focuses on identifying which session-level variables are associated with purchase probability and on evaluating whether a hierarchical Bayesian model with month-specific intercepts provides a better fit than a simpler baseline model. Posterior inference is carried out using both Laplace approximation and Hamiltonian Monte Carlo, and model performance is assessed through posterior predictive checks and diagnostic measures.
